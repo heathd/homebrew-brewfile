@@ -1,5 +1,12 @@
 tap "homebrew/bundle"
 tap "homebrew/core"
+tap 'homebrew/services'
 brew "git"
 brew "nodenv"
 brew "rbenv"
+brew "pyenv"
+brew "curl"
+brew "wget"
+brew "tree"
+brew "pass"
+brew "graphviz"
